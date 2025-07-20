@@ -171,7 +171,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Jeswanth proved me wrong.",
     name: "MD Mustaqeem",
     designation: "Ecommerce",
     company: "QuickMart",
@@ -179,7 +179,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
+      "I've never met a web developer who truly cares about their clients' success like Jeswanth does.",
     name: "Abdul Raheman",
     designation: "Ecommerce Business",
     company: "justbuyz",
@@ -187,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Jeswanth optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "James Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -217,10 +217,7 @@ const projects = [
         name: "mongodb",
         color: "green-text-gradient",
       },
- 
-    ],
-    image: project2,
-    source_code_link: "https://github.com/",
+    ]
   },
   {
     name: "GearXpert",
@@ -239,9 +236,7 @@ const projects = [
         name: "Gsap",
         color: "pink-text-gradient",
       },
-    ],
-    image: gearXpert,
-    source_code_link: "https://github.com/",
+    ]
   },
   {
     name: "GoGroove-Ecommerce",
@@ -264,9 +259,7 @@ const projects = [
         name: "mongodb",
         color: "green-text-gradient",
       },
-    ],
-    image: project3,
-    source_code_link: "https://github.com/",
+    ]
   },
 ];
 
